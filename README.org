@@ -1,0 +1,10 @@
+* flac-metadata
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://git.mfiano.net/mfiano/flac-metadata.git   |
+| commit  |   |
+| systems | flac-metadata |
+|---------+-------------------------------------------|
+
