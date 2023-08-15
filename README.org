@@ -2,8 +2,8 @@
 
 A utility for reading metadata embedded in FLAC audio files
 
-|---------+-----------------------------------------------------|
-| source  | git:https://github.com/mfiano/flac-metadata.git
-| commit  | e28b4d4                                             |
-| systems | flac-metadata                                       |
-|---------+-----------------------------------------------------|
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/mfiano/flac-metadata.git |
+| commit  | e28b4d4                                         |
+| systems | flac-metadata                                   |
+|---------+-------------------------------------------------|
