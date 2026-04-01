@@ -7,3 +7,4 @@ A utility for reading metadata embedded in FLAC audio files
 | commit  | e28b4d4                                         |
 | systems | flac-metadata                                   |
 |---------+-------------------------------------------------|
+ 
